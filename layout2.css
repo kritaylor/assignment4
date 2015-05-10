@@ -1,0 +1,53 @@
+
+body {
+	font-family: Arial, Helvetica, Verdana, Sans-serif;
+	font-size: 12px;
+	color: white;
+	background: #ffffff;
+}
+
+li{
+
+	display: inline;
+	padding: 0.5em;
+}
+
+#content{
+	overflow: auto;
+}
+
+img.align-left{
+
+	float:left;
+	margin-right: 10px;
+}
+
+#main-nav {
+	background: #DDDFE6;
+	height: 50px;
+}
+
+#header {
+	background: #566180;
+	height: 150px;
+	text-align: center;
+}
+
+#sidebar-a {
+	float: right;
+	width: 25%;
+	background: #3366FF;
+}
+
+#content {
+	background: #ADC2FF;
+	width: 75%;
+	float: left;
+}
+
+#footer {
+	clear: both;
+	background: orange;
+	height: 66px;
+	text-align: center;
+}

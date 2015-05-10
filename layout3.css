@@ -1,0 +1,61 @@
+body{
+
+	width:90%;
+	margin: 0 auto;
+	font-family: Arial;
+}
+
+#header{
+	background-color: #C2C2FF;
+
+}
+
+h1, h2{
+
+	text-align: center;
+	font-family: Arial;
+}
+
+p{
+
+	text-align: left;
+	font-family: Arial;
+}
+
+#content{
+	overflow: auto;
+}
+
+
+.column1{
+	width: 50%;
+	float:left;
+	background-color: #efefef;
+}
+
+.column2{
+	width: 50%;
+	float:left;
+	background-color: #efefef;
+}
+
+
+li{
+
+	display: inline;
+	padding: 0.5em;
+}
+
+
+
+#nav{
+	background-color: #A3A3FF;
+	padding: 0.5em;
+	text-align: center;
+}
+
+#footer{
+	text-align: center;
+	background-color: #efefef;
+}
+
